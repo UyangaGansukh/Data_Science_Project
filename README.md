@@ -31,6 +31,6 @@ Contrary to expectations, certain areas in Brooklyn exhibited higher housing pri
 
 ## Files Included
 - `README.md`: This file provides an overview of the project.
-- `Data_preprocessing.m`, `Data_preprocessing_p2.m`: Python code for Preprocessing part of the project.
--
-- `Data Science `
+- `1. Data_preprocessing.ipynb`, `2. Data_preprocessing_p2.ipynb`, `3. Census_school_indices.ipynb`, `5. Plots_pricehistory.ipynb`: Python codes for preprocessing and EDA.
+- `4. Lasso_regression.ipynb`, `6. Flipping_price_effect.ipynb`: Python codes for modeling and results.
+- `Data Science - Project Highlights.pdf`: Main results of the project
